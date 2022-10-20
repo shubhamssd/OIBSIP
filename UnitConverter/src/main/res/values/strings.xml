@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UnitConverterApp</string>
+    <string name="unit_converter">Unit Converter</string>
+    <string name="cm_to_m">CM To M</string>
+    <string name="kg_to_gm">Kg To Gm</string>
+    <string name="m_to_km">M to Km</string>
+    <string name="ltr_to_ml">Ltr to ml</string>
+    <string name="inch_to_cm">inch to cm</string>
+    <string name="km_to_m">km to m</string>
+    <string name="enter_the_value_below">Enter the value below</string>
+</resources>
